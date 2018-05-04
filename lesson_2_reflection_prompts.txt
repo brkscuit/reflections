@@ -1,3 +1,8 @@
 What happens when you initialize a repository?  Why do you need to do it?
 
 A repository is created when you run the initialize command.  You must run the init command to create a repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can move only files that were changed to the staging area.  You can use the reset command to unstage files.
+
